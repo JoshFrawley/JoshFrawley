@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Josh
 #### Just another Engineer
-Currently doing my PhD in securing SDN using Machine leanring. Working as a Network Secuity Enginer at Quorum Cyber. 
-Enjoy all things home lab and infrastucure
+Currently doing my PhD in securing SDN using Machine learning. Working as a Network security engineer at Quorum Cyber. 
+Enjoy all things home lab and infrastructure
 
 Skills: Machine Learning, Java, Ansible, Infrastructure, Python
 
